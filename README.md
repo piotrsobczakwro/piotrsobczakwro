@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piotrsobczakwro 🇵🇱
-- 👀 I’m interested in learning 🐡
-- 🌱 I’m currently learning Kubernetes, docker, Python, Azure
-- 💞️ I’m looking to collaborate on Kubernetes, Docker,Python , Azure
+- 👀 I’m coffie addicted
+- 🌱 I’m currently learning Kubernetes,Docker,Python,Azure
+- 💞️ I’m looking to collaborate on Kubernetes, Docker,Python,Azure
 
 
 <!---
